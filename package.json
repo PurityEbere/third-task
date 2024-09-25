@@ -1,0 +1,20 @@
+{
+  "name": "third-task",
+  "version": "1.0.0",
+  "description": "Read and write file ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Purity",
+  "license": "ISC",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
